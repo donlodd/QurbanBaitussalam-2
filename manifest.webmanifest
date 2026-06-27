@@ -1,0 +1,27 @@
+{
+  "name": "QurbanBaitussalam",
+  "short_name": "QurbanBS",
+  "description": "Aplikasi Manajemen Qurban Mandiri",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#00713D",
+  "theme_color": "#00713D",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
